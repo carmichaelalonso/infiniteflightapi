@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace InfiniteFlight.ApiClient
+namespace InfiniteFlight.Api
 {
     /// <summary>
     /// Interaction logic for App.xaml
