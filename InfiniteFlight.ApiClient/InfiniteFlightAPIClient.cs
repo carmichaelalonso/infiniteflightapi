@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Sockets;
@@ -386,7 +386,7 @@ namespace InfiniteFlight.ApiClient
 
             if (commandID == -1)
             {
-                //ReadManifest(networkStream);                
+                ReadManifest(networkStream);                
             }
             else
             {
